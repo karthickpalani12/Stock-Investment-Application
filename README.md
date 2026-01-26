@@ -92,7 +92,7 @@ This architecture improves scalability, maintainability, and testability.
 
 **Getting Started**
 1.Clone this repository to your local machine:
-    git clone <your-repo-url>
+    git clone https://github.com/karthickpalani12/Stock-Investment-Application.git
     cd stock_investments
 
 2.Install Dependencies
