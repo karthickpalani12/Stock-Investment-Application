@@ -110,16 +110,8 @@ Build Release APK
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<img width="1080" height="2400" alt="10" src="https://github.com/user-attachments/assets/17f0c7b1-c595-4cf2-a8b0-883c3cda2d3a" />
-<img width="1080" height="2400" alt="9" src="https://github.com/user-attachments/assets/c782c1a7-1d59-4161-8b9c-d2e12556b64e" />
-<img width="1080" height="2400" alt="8" src="https://github.com/user-attachments/assets/daa02abf-7b29-4f41-8df0-84e9c6fe10b8" />
-<img width="1080" height="2400" alt="7" src="https://github.com/user-attachments/assets/ff8da942-403b-486b-ba68-75ec7a0ba9eb" />
-<img width="1080" height="2400" alt="6" src="https://github.com/user-attachments/assets/3250ebde-f30d-42e5-b922-6b1aff4e52f4" />
-<img width="1080" height="2400" alt="5" src="https://github.com/user-attachments/assets/7c2179aa-e1ca-4bb3-9803-2c4609c4922c" />
-<img width="1080" height="2400" alt="4" src="https://github.com/user-attachments/assets/2d0f70b9-2d50-4fc1-8b61-413137fcbfe8" />
-<img width="1080" height="2400" alt="3" src="https://github.com/user-attachments/assets/7924e2d7-ecb3-4c22-9a80-775663a8a1c7" />
-<img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/a684d1b5-682c-4e62-b506-b6b4d871d311" />
-<img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/c84ce954-082c-49d5-b940-f389a44f8436" />
+<img width="4218" height="11164" alt="app_pages" src="https://github.com/user-attachments/assets/f1cd91eb-a4c2-40d1-990c-07eb98e264be" />
+
 
 https://github.com/user-attachments/assets/b4070a85-170a-4f52-b89d-eaccaeef37b9
 
